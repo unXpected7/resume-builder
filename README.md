@@ -9,7 +9,7 @@
 [![](https://img.shields.io/github/stars/sadanandpai/single-page-resume-builder?style=for-the-badge)](#stars)
 [![](https://img.shields.io/github/forks/sadanandpai/single-page-resume-builder?style=for-the-badge)](#forks)
 
-👉 &nbsp;&nbsp;[Single Page Resume Builder](https://e-resume.vercel.app/)&nbsp;&nbsp;👈
+👉 &nbsp;&nbsp;[Single Page Resume Builder](https://github.com/unXpected7/resume-builder)&nbsp;&nbsp;👈
 
 </div>
 
